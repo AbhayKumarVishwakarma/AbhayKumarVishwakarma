@@ -11,6 +11,23 @@
 
 <h3>🌐 Socials:</h3>
 <a href="https://www.linkedin.com/in/abhay-kumar-vishwakarma-3b0b66260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<br/>
+<p></p>
+
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
+<div align="center">
+     <h3 align="center">Frontend</h3>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" alt="HTML">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="center" alt="CSS">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" alt="Javascript">
+</div>
+
+ <div align="center">
+     <h3 align="center">Backend</h3>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="center" alt="MySQL" />
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center" alt="Java" />
+ </div>
+
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
+
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=AbhayKumarVishwakarma"><img src="https://github-profile-trophy.vercel.app/?username=AbhayKumarVishwakarma" alt="AbhayKumarVishwakarma" /></a> </p>
 
