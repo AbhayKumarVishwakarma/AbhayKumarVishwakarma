@@ -22,14 +22,6 @@
      <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="JS">
 </div>
 
- <div align="center">
-     <h3 align="center">Backend</h3>
-     <img src="https://img.shields.io/badge/MYSQL-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="MySQL" />
-     <img src="https://img.shields.io/badge/java-593D88?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="Java"/>
- </div>
-
-<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
-
 <div align="center"><h3 align="center">Backend</h3> 
      <img src="https://img.shields.io/badge/MYSQL-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="MYSQL" />
      <img src="https://img.shields.io/badge/java-593D88?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="java"/>
