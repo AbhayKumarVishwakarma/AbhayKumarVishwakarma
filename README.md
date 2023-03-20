@@ -15,17 +15,17 @@
 
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 
-<h3 align="center">Frontend</h3>
 <div align="center" display="flex">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" height="60" width="60" alt="HTML">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="center" height="60" width="60" alt="CSS">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" height="60" width="60" alt="Javascript">
+     <h3 align="center">Frontend</h3>
+     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="HTML">
+     <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="CSS">
+     <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="JS">
 </div>
 
  <div align="center">
      <h3 align="center">Backend</h3>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="center" alt="MySQL" />
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center" alt="Java" />
+     <img src="https://img.shields.io/badge/MYSQL-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="MySQL" />
+     <img src="https://img.shields.io/badge/java-593D88?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="Java"/>
  </div>
 
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
