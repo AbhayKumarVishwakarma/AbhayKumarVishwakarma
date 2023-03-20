@@ -25,13 +25,11 @@
 <div align="center"><h3 align="center">Backend</h3> 
      <img src="https://img.shields.io/badge/MYSQL-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="MYSQL" />
      <img src="https://img.shields.io/badge/java-593D88?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="java"/>
-     <img src = "https://img.shields.io/badge/HIBERNATE-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="HIBERNAT"/>
 </div>
 
 <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
    <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
