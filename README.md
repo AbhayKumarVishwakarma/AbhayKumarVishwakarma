@@ -38,10 +38,8 @@
  
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=AbhayKumarVishwakarma"><img src="https://github-profile-trophy.vercel.app/?username=AbhayKumarVishwakarma" alt="AbhayKumarVishwakarma" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=AbhayKumarVishwakarma"><img src="https://github-profile-trophy.vercel.app/?username=AbhayKumarVishwakarma" alt="AbhayKumarVishwakarma" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhayKumarVishwakarma&show_icons=true&locale=en&layout=compact" alt="AbhayKumarVishwakarma" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbhayKumarVishwakarma&theme=gotham&show_icons=true&count_private=true&hide_border=true" alt="AbhayKumarVishwakarma" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayKumarVishwakarma&theme=gotham&hide_border=true" alt="AbhayKumarVishwakarma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhayKumarVishwakarma&show_icons=true&locale=en" alt="AbhayKumarVishwakarma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayKumarVishwakarma&" alt="AbhayKumarVishwakarma" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhayKumarVishwakarma&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="AbhayKumarVishwakarma" /></p>
