@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Abhay Kumar Vishwakarma</h2>    
 <h3 align="center">A passionate Java Backend developer</h3>
 
-<img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" alt="GIF" margin="0 auto" display="block" width="100%" height="400px"  object-fit="contain">
+<img src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75cfac4a7b496c85492a0996e5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f36622f31632f39313662316330623937383861643837623963636466633731626264616466332e676966" alt="GIF" margin="0 auto" display="block" width="100%" height="auto"  object-fit="contain">
 
 
 - 🔭 I’m currently Studing on Masai School
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, Springboot**
 - 👯 All my projects are available at https://abhaykumarvishwakarma.github.io/
 - 📫 Email me at 3492akv@gmail.com
 
@@ -23,16 +23,20 @@
 </div>
 
 <div align="center"><h3 align="center">Backend</h3> 
-     <img src="https://img.shields.io/badge/java-593D88?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="java"/>
-     <img src="https://img.shields.io/badge/MYSQL-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="MYSQL" />
+     <img src="https://img.shields.io/badge/java-593D88?style=for-the-badge&logo=java&logoColor=white" align="center" alt="java"/>
+     <img src="https://img.shields.io/badge/MYSQL-339933?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MYSQL" />
+     <img src="https://img.shields.io/badge/spring%20boot-593D88?style=for-the-badge&logo=spirng&logoColor=white" align="center" alt="springboot"/>
+     <img src="https://img.shields.io/badge/hibernate-339933?style=for-the-badge&logo=hibernate&logoColor=white" align="center" alt="Hibernate" />
+     <img src="https://img.shields.io/badge/maven-593D88?style=for-the-badge&logo=maven&logoColor=white" align="center" alt="Maven" />
 </div>
 
 <div align="center"><h3 align="center">Tools</h3> 
+   <img src = "https://img.shields.io/badge/Intellij-100000?style=for-the-badge&logo=Intellij&logoColor=white" align="center" alt="vscode">
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src = "https://img.shields.io/badge/VSCode-100000?style=for-the-badge&logo=vscode&logoColor=white" align="center" alt="vscode">
    <br/>
 </div>
  
