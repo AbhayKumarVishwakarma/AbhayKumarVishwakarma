@@ -3,17 +3,25 @@
 
 <img src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75cfac4a7b496c85492a0996e5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f36622f31632f39313662316330623937383861643837623963636466633731626264616466332e676966" alt="GIF" margin="0 auto" display="block" width="100%" height="auto"  object-fit="contain">
 
+</br>
+</br>
 
-- 🔭 I’m currently Studing on Masai School
-- 🌱 I’m currently learning **Java, Springboot**
-- 👯 All my projects are available at https://abhaykumarvishwakarma.github.io/
+- 🔭 I’m currently working on Flask, React
+- 💬 Ask me about Java backend | MySQL | Spring Boot
+- 🌱 I’m looking to work as a Java backend developer
+- 👯 All my projects are available at <a href="https://abhaykumarvishwakarma.github.io/" target="blank"> Portfolio </a>
 - 📫 Email me at 3492akv@gmail.com
+
+</br>
+</br>
 
 <h3>🌐 Socials:</h3>
 <a href="https://www.linkedin.com/in/abhay-kumar-vishwakarma-3b0b66260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <p></p>
 
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
+
+</br>
 
 <div align="center" display="flex">
      <h3 align="center">Frontend</h3>
@@ -39,6 +47,11 @@
    <img src = "https://img.shields.io/badge/VSCode-100000?style=for-the-badge&logo=vscode&logoColor=white" align="center" alt="vscode">
    <br/>
 </div>
+
+
+</br>
+</br>
+
  
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 
