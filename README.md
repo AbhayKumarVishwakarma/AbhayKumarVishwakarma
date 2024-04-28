@@ -6,11 +6,10 @@
 </br>
 </br>
 
-- 🔭 I’m currently working on Flask, React
 - 💬 Ask me about Java backend | MySQL | Spring Boot
 - 🌱 I’m looking to work as a Java backend developer
 - 👯 All my projects are available at <a href="https://abhaykumarvishwakarma.github.io/" target="blank"> Portfolio </a>
-- 📫 Email me at 3492akv@gmail.com
+- 📫 Email me at abhaykumarv00@gmail.com
 
 </br>
 </br>
