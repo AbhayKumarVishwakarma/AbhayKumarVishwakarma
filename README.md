@@ -1,9 +1,18 @@
 <h2 align="center">Hi 👋, I'm Abhay Kumar Vishwakarma</h2>    
-<h3 align="center">A passionate Java Backend developer</h3>
-
-<img src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75cfac4a7b496c85492a0996e5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f36622f31632f39313662316330623937383861643837623963636466633731626264616466332e676966" alt="GIF" margin="0 auto" display="block" width="100%" height="auto"  object-fit="contain">
+<h3 align="left"> As a Software Developer, my expertise is rooted in Java and Spring Boot, where I design and implement scalable backend solutions. I also have a basic understanding of Python, Flask, and Node.js, offering flexibility in backend technology choices. Additionally, I know HTML, CSS, and JavaScript, contributing to smooth integration with front-end projects. My approach focuses on creating reliable backend systems that are efficient, secure, and aligned with business needs. </h3>
 
 </br>
+
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
+
+</br>
+
+<img src="https://camo.githubusercontent.com/cd97034c20d6a54044d8d9701d38bd02ef7d53642dbb621aab9fda98a5dac611/68747470733a2f2f626c6f672e706c616e766965772e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30312f546f702d362d536f6674776172652d446576656c6f706d656e742d4d6574686f646f6c6f676965732e6a7067" alt="GIF" margin="0 auto" display="block" width="100%" height="auto"  object-fit="contain">
+
+</br>
+
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
+
 </br>
 
 - 💬 Ask me about Java backend | MySQL | Spring Boot
@@ -15,7 +24,12 @@
 </br>
 
 <h3>🌐 Socials:</h3>
-<a href="https://www.linkedin.com/in/abhay-kumar-vishwakarma-3b0b66260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<div align="left" display="flex">
+     <a href="https://www.linkedin.com/in/abhay-kumar-vishwakarma-3b0b66260/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="autp" /></a>
+     <a href="https://abhaykumarvishwakarma.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-purple.svg?style=for-the-badge" alt="portfolio" height="30" width="autp" /></a>
+</div>
+
+
 <p></p>
 
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
